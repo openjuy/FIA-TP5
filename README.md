@@ -1,5 +1,5 @@
 # FIA | Trabajo Practico Integral
-El trabajo se desarrollo en el notebook de Google Coll
+El trabajo se desarrollo en el notebook de Google Collab
 ## Enlace al repositorio en github
 [Enlace al repositorio](https://github.com/openjuy/FIA2023-TPI) github.
 ## Enlace al notebook
